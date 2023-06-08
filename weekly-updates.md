@@ -16,3 +16,27 @@
 
 **Reflection on the process you used last week, how can you make the process work better?**
 * Last week I was in brainstorming mode, without very specific plans. This week, I would like to start making concrete actionable plans for exactly what needs to happen for this project. I think this should happen naturally as I dive into more specific problems and have to come up with solutions. 
+
+***Week 3***
+
+**What did you do last week?**
+* Became more familiar with Github and posted my first weekly update both on my website (here) and on Piazza
+* Read through the Twitter course for how to understand and use their API: https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/README.md
+* Created a Developer account on Twitter, and created my first project and app, titled MLMarketAnalyzer
+
+**What do you plan to do this week?**
+
+* Practice using the API by pulling some sample data on Python
+* After getting confident using the API, research and decide which data I will pull and use for my analysis, and then extract it so that it is ready for analysis
+
+**Are there any impediments in your way?**
+
+* I have never used an API before, so there will probably be some hiccups in the process of using it and getting the data on Python
+* I'm still a little vague on exactly which data I need/want to use for my analysis, so I need to think about this and decide what kind of tweets I want to look at for analysis
+* I will have to figure out a way to store my data in a way that both makes sense for my project and so that I keep my data in compliance with Twitter policies - in other words I will have to find a way to honor Tweet deletions or changes
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+* I was glad to find a way to easily familiarize myself with the Twitter API, and reading through this was no problem. Familiarizing myself with Github was harder than I anticipated, and I will keep this in mind as I continue to use this website for my project. Again, I'm still vague on a lot of points about my project, and this might be because I'm hoping I'll learn more information as I go along with my classes and with the project that will help push me one way or another in terms of decision-making, but what I really need to do is simply do my own research and figure out actionable strategies to move forward decisively. A good plan today is better than a perfect plan tomorrow, and I need to keep reminding myself of that.
+
+
